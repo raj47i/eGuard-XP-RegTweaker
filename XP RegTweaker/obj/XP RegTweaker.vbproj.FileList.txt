@@ -1,0 +1,24 @@
+bin\Debug\XP RegTweaker.exe
+bin\Debug\XP RegTweaker.pdb
+bin\Debug\XP RegTweaker.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\XP_RegTweaker.Resources.resources
+obj\Debug\XP RegTweaker.vbproj.GenerateResource.Cache
+obj\Debug\XP RegTweaker.exe
+obj\Debug\XP RegTweaker.xml
+obj\Debug\XP RegTweaker.pdb
+bin\Debug\Manual.chm
+obj\Debug\XP_RegTweaker.AbouteGUARD.resources
+bin\Release\Manual.chm
+bin\Release\XP RegTweaker.exe
+bin\Release\XP RegTweaker.pdb
+bin\Release\XP RegTweaker.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\XP_RegTweaker.AbouteGUARD.resources
+obj\Release\XP_RegTweaker.MainFrm.resources
+obj\Release\XP_RegTweaker.Resources.resources
+obj\Release\XP RegTweaker.vbproj.GenerateResource.Cache
+obj\Release\XP RegTweaker.exe
+obj\Release\XP RegTweaker.xml
+obj\Release\XP RegTweaker.pdb
+obj\Debug\XP_RegTweaker.MainFrm.resources
